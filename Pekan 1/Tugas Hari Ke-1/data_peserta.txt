@@ -1,0 +1,6 @@
+Data Peserta Sanbercode Bootcamp ReactJS
+1. Nama                           : Bagia Jati Permana 
+2. Email                          : bagiajati@gmail.com 
+3. Sistem Operasi yang digunakan  : Windows 10
+4. Akun GitHub                    : bagiajati 
+5. Akun Telegram                  : @bagiajati
