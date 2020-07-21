@@ -1,0 +1,99 @@
+html {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 55px;
+	background-color: white;
+	z-index: 9999;
+	display: flex;
+	justify-content: space-between;
+}
+
+body {
+	margin: 0px;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 20px;
+	margin-top: 5px;
+}
+
+nav a {
+	text-decoration: none;
+	color: blue;
+}
+
+body .container {
+	background-image: url(../img/pattern.jpg);
+}
+
+.container2 {
+	background-color: #f2f2f2;
+	width: 800px;
+	margin: auto;
+	margin-top: 50px;
+	background-color: white;
+	border: 2px solid #d1d1d1;
+	padding: 0px 30px 30px 30px;
+}
+
+.container3 {
+	background-color: #f2f2f2;
+	width: 800px;
+	margin: auto;
+	margin-top: 50px;
+	background-color: white;
+	border: 2px solid #d1d1d1;
+	padding: 0px 30px 30px 30px;
+}
+
+section {
+	width: 800px;
+	padding: 15px;
+	margin: auto;
+	margin-top: 60px;
+	margin-bottom: 20px;
+	background-color: white;
+}
+
+#article-list a {
+	text-decoration: none;
+}
+
+#article-list h3 {
+	margin-top: 60px;
+	color: black;
+}
+
+h1 {
+	text-align: center;
+}
+
+.copy {
+	background-color: #333;
+	padding: 15px;
+	color: #eaeaea;
+	text-align: center;
+	margin: 0px;
+}
+
+.dot li {
+	list-style: none;
+}
+
+textarea {
+	height: 110px;
+	width: 400px;
+}
+
+button {
+	margin-bottom: 30px;
+}
